@@ -1,0 +1,11 @@
+10 3 2
+abca 3
+abc 1
+bca 5
+xyzaa 6
+x 10
+yza 2
+aaaaa 4
+uba 7
+oleo 8
+ole 9
